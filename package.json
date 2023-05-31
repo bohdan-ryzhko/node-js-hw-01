@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/bohdan-ryzhko/node-js-hw-01#readme",
   "dependencies": {
-    "nodemon": "^2.0.22"
+    "nodemon": "^2.0.22",
+    "uuid": "^9.0.0"
   }
 }
